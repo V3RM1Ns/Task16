@@ -1,0 +1,14 @@
+/Users/apple/RiderProjects/Task16/obj/Debug/net9.0/Task16.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/Task16/obj/Debug/net9.0/Task16.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/Task16/obj/Debug/net9.0/Task16.AssemblyInfo.cs
+/Users/apple/RiderProjects/Task16/obj/Debug/net9.0/Task16.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/Task16/bin/Debug/net9.0/Task16
+/Users/apple/RiderProjects/Task16/bin/Debug/net9.0/Task16.deps.json
+/Users/apple/RiderProjects/Task16/bin/Debug/net9.0/Task16.runtimeconfig.json
+/Users/apple/RiderProjects/Task16/bin/Debug/net9.0/Task16.dll
+/Users/apple/RiderProjects/Task16/bin/Debug/net9.0/Task16.pdb
+/Users/apple/RiderProjects/Task16/obj/Debug/net9.0/Task16.dll
+/Users/apple/RiderProjects/Task16/obj/Debug/net9.0/refint/Task16.dll
+/Users/apple/RiderProjects/Task16/obj/Debug/net9.0/Task16.pdb
+/Users/apple/RiderProjects/Task16/obj/Debug/net9.0/Task16.genruntimeconfig.cache
+/Users/apple/RiderProjects/Task16/obj/Debug/net9.0/ref/Task16.dll

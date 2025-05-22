@@ -1,0 +1,15 @@
+/Users/apple/Desktop/VisualTask/VisualTask/obj/Debug/net7.0/VisualTask.csproj.AssemblyReference.cache
+/Users/apple/Desktop/VisualTask/VisualTask/obj/Debug/net7.0/VisualTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/VisualTask/VisualTask/obj/Debug/net7.0/VisualTask.AssemblyInfoInputs.cache
+/Users/apple/Desktop/VisualTask/VisualTask/obj/Debug/net7.0/VisualTask.AssemblyInfo.cs
+/Users/apple/Desktop/VisualTask/VisualTask/obj/Debug/net7.0/VisualTask.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/VisualTask/VisualTask/bin/Debug/net7.0/VisualTask
+/Users/apple/Desktop/VisualTask/VisualTask/bin/Debug/net7.0/VisualTask.deps.json
+/Users/apple/Desktop/VisualTask/VisualTask/bin/Debug/net7.0/VisualTask.runtimeconfig.json
+/Users/apple/Desktop/VisualTask/VisualTask/bin/Debug/net7.0/VisualTask.dll
+/Users/apple/Desktop/VisualTask/VisualTask/bin/Debug/net7.0/VisualTask.pdb
+/Users/apple/Desktop/VisualTask/VisualTask/obj/Debug/net7.0/VisualTask.dll
+/Users/apple/Desktop/VisualTask/VisualTask/obj/Debug/net7.0/refint/VisualTask.dll
+/Users/apple/Desktop/VisualTask/VisualTask/obj/Debug/net7.0/VisualTask.pdb
+/Users/apple/Desktop/VisualTask/VisualTask/obj/Debug/net7.0/VisualTask.genruntimeconfig.cache
+/Users/apple/Desktop/VisualTask/VisualTask/obj/Debug/net7.0/ref/VisualTask.dll
