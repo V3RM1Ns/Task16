@@ -1,0 +1,15 @@
+/Users/apple/RiderProjects/Lab/bin/Debug/net9.0/Lab
+/Users/apple/RiderProjects/Lab/bin/Debug/net9.0/Lab.deps.json
+/Users/apple/RiderProjects/Lab/bin/Debug/net9.0/Lab.runtimeconfig.json
+/Users/apple/RiderProjects/Lab/bin/Debug/net9.0/Lab.dll
+/Users/apple/RiderProjects/Lab/bin/Debug/net9.0/Lab.pdb
+/Users/apple/RiderProjects/Lab/obj/Debug/net9.0/Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/Lab/obj/Debug/net9.0/Lab.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/Lab/obj/Debug/net9.0/Lab.AssemblyInfo.cs
+/Users/apple/RiderProjects/Lab/obj/Debug/net9.0/Lab.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/Lab/obj/Debug/net9.0/Lab.sourcelink.json
+/Users/apple/RiderProjects/Lab/obj/Debug/net9.0/Lab.dll
+/Users/apple/RiderProjects/Lab/obj/Debug/net9.0/refint/Lab.dll
+/Users/apple/RiderProjects/Lab/obj/Debug/net9.0/Lab.pdb
+/Users/apple/RiderProjects/Lab/obj/Debug/net9.0/Lab.genruntimeconfig.cache
+/Users/apple/RiderProjects/Lab/obj/Debug/net9.0/ref/Lab.dll
