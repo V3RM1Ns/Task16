@@ -1,0 +1,15 @@
+/Users/apple/RiderProjects/task19new/task19new/bin/Debug/net9.0/task19new
+/Users/apple/RiderProjects/task19new/task19new/bin/Debug/net9.0/task19new.deps.json
+/Users/apple/RiderProjects/task19new/task19new/bin/Debug/net9.0/task19new.runtimeconfig.json
+/Users/apple/RiderProjects/task19new/task19new/bin/Debug/net9.0/task19new.dll
+/Users/apple/RiderProjects/task19new/task19new/bin/Debug/net9.0/task19new.pdb
+/Users/apple/RiderProjects/task19new/task19new/obj/Debug/net9.0/task19new.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/task19new/task19new/obj/Debug/net9.0/task19new.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/task19new/task19new/obj/Debug/net9.0/task19new.AssemblyInfo.cs
+/Users/apple/RiderProjects/task19new/task19new/obj/Debug/net9.0/task19new.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/task19new/task19new/obj/Debug/net9.0/task19new.sourcelink.json
+/Users/apple/RiderProjects/task19new/task19new/obj/Debug/net9.0/task19new.dll
+/Users/apple/RiderProjects/task19new/task19new/obj/Debug/net9.0/refint/task19new.dll
+/Users/apple/RiderProjects/task19new/task19new/obj/Debug/net9.0/task19new.pdb
+/Users/apple/RiderProjects/task19new/task19new/obj/Debug/net9.0/task19new.genruntimeconfig.cache
+/Users/apple/RiderProjects/task19new/task19new/obj/Debug/net9.0/ref/task19new.dll
